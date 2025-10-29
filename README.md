@@ -1,4 +1,6 @@
 # Promptfolio
+<img width="960" height="503" alt="image" src="https://github.com/user-attachments/assets/0e7d57ee-d089-4adc-80a3-f6b6c22d2538" />
+
 
 An AI-powered personal portfolio generator that creates beautiful, unique portfolio websites from just 5 simple questions.
 
